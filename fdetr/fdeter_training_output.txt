@@ -1,0 +1,48 @@
+Epoch 1/12...
+loss: 1.3483645915985107 | classification accuracy: 0.8140835165977478 | box error: 0.2759142518043518 | giou loss: 1.399999976158142
+val loss: 4.9180755615234375 | val classification accuracy: 0.7854251265525818 | val box error: 0.2759552001953125 | val giou loss: 1.0
+Time for epoch 0: 1985.6774733066559s
+Epoch 2/12...
+loss: 1.3354723453521729 | classification accuracy: 0.8123995661735535 | box error: 0.27630186080932617 | giou loss: 1.4695549011230469
+val loss: 5.263288497924805 | val classification accuracy: 0.7970647811889648 | val box error: 0.2769871652126312 | val giou loss: 1.0
+Time for epoch 1: 1838.4619588851929s
+Epoch 3/12...
+loss: 1.5163929462432861 | classification accuracy: 0.8098737001419067 | box error: 0.2752566635608673 | giou loss: 1.6666666269302368
+val loss: 4.785852909088135 | val classification accuracy: 0.8026315569877625 | val box error: 0.2750263214111328 | val giou loss: 1.0
+Time for epoch 2: 1840.43377327919s
+Epoch 4/12...
+loss: 1.1774559020996094 | classification accuracy: 0.8169919848442078 | box error: 0.2766989767551422 | giou loss: 1.5620290040969849
+val loss: 5.106301307678223 | val classification accuracy: 0.7712550759315491 | val box error: 0.27254733443260193 | val giou loss: 1.0
+Time for epoch 3: 1838.6166026592255s
+Epoch 5/12...
+loss: 1.4138485193252563 | classification accuracy: 0.8197473883628845 | box error: 0.27773451805114746 | giou loss: 1.5239448547363281
+val loss: 6.194643020629883 | val classification accuracy: 0.8046558499336243 | val box error: 0.2764904797077179 | val giou loss: 1.0
+Time for epoch 4: 1839.7206864356995s
+Epoch 6/12...
+loss: 1.6170345544815063 | classification accuracy: 0.8059701323509216 | box error: 0.27487555146217346 | giou loss: 1.6666666269302368
+val loss: 4.441980361938477 | val classification accuracy: 0.8097165822982788 | val box error: 0.27772456407546997 | val giou loss: 1.0
+Time for epoch 5: 16033.558981657028s
+Epoch 7/12...
+loss: 1.308288335800171 | classification accuracy: 0.8158438801765442 | box error: 0.27568942308425903 | giou loss: 2.0
+val loss: 5.14555549621582 | val classification accuracy: 0.783906877040863 | val box error: 0.28041404485702515 | val giou loss: 1.0
+Time for epoch 6: 2122.7735714912415s
+Epoch 8/12...
+loss: 1.4205381870269775 | classification accuracy: 0.8016073703765869 | box error: 0.27489203214645386 | giou loss: 1.3333333730697632
+val loss: 7.00689697265625 | val classification accuracy: 0.7920040488243103 | val box error: 0.27925944328308105 | val giou loss: 1.0
+Time for epoch 7: 1844.7742838859558s
+Epoch 9/12...
+loss: 1.2207032442092896 | classification accuracy: 0.8041331768035889 | box error: 0.27508386969566345 | giou loss: 1.5875252485275269
+val loss: 4.01759147644043 | val classification accuracy: 0.8056679964065552 | val box error: 0.27521851658821106 | val giou loss: 1.0
+Time for epoch 8: 1844.586890220642s
+Epoch 10/12...
+loss: 1.2471473217010498 | classification accuracy: 0.8183696866035461 | box error: 0.27558645606040955 | giou loss: 2.0
+val loss: 5.141273498535156 | val classification accuracy: 0.7985829710960388 | val box error: 0.2754462659358978 | val giou loss: 1.0
+Time for epoch 9: 1831.8012840747833s
+Epoch 11/12...
+loss: 1.729691743850708 | classification accuracy: 0.8314580917358398 | box error: 0.2771536707878113 | giou loss: 1.6666666269302368
+val loss: 5.504648685455322 | val classification accuracy: 0.7864372730255127 | val box error: 0.2739810347557068 | val giou loss: 1.0
+Time for epoch 10: 1813.3618125915527s
+Epoch 12/12...
+loss: 1.573637843132019 | classification accuracy: 0.8114810585975647 | box error: 0.2773478627204895 | giou loss: 1.9579674005508423
+val loss: 3.616450786590576 | val classification accuracy: 0.8036437034606934 | val box error: 0.2771785855293274 | val giou loss: 1.6598368883132935
+Time for epoch 11: 1813.9619133472443s
